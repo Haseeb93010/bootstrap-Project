@@ -1,7 +1,7 @@
 .opacity {
     background: rgba(0, 0, 0, 0.6);
 }
-img{
-    filter: grayscale(.75);
-    -webkit-filter: grayscale(.75);
+#grayScale img{
+    filter: grayscale(.80);
+    -webkit-filter: grayscale(.80);
 }
